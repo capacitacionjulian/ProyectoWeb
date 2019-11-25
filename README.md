@@ -10,3 +10,5 @@ c#
 Visual Studio
 
 Descripcion Proyecto
+
+Version 1.0
