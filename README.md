@@ -11,4 +11,4 @@ Visual Studio
 
 Descripcion Proyecto
 
-Hola
+Version 1.0
